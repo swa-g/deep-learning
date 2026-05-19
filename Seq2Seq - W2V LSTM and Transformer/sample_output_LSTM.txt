@@ -1,0 +1,48 @@
+Loading and preprocessing dataset...
+Total English vocabulary size: 1208
+Total Portuguese vocabulary size: 2197
+Max length input: 8, Max length target: 11
+
+Starting Training...
+Epoch 1 Batch 0 Loss 3.2462
+Epoch 1 Complete. Total Loss: 1.8271
+
+Epoch 2 Batch 0 Loss 1.4793
+Epoch 2 Complete. Total Loss: 1.4717
+
+Epoch 3 Batch 0 Loss 1.3570
+Epoch 3 Complete. Total Loss: 1.2932
+
+Epoch 4 Batch 0 Loss 1.1919
+Epoch 4 Complete. Total Loss: 1.1411
+
+Epoch 5 Batch 0 Loss 1.0619
+Epoch 5 Complete. Total Loss: 1.0187
+
+Epoch 6 Batch 0 Loss 0.9987
+Epoch 6 Complete. Total Loss: 0.9190
+
+Epoch 7 Batch 0 Loss 0.7816
+Epoch 7 Complete. Total Loss: 0.8343
+
+Epoch 8 Batch 0 Loss 0.7498
+Epoch 8 Complete. Total Loss: 0.7612
+
+Epoch 9 Batch 0 Loss 0.6948
+Epoch 9 Complete. Total Loss: 0.6954
+
+Epoch 10 Batch 0 Loss 0.5972
+Epoch 10 Complete. Total Loss: 0.6384
+
+--- Testing Translation Capabilities ---
+Input: <start> go . <end>
+Predicted translation: acalme se . 
+
+Input: <start> run ! <end>
+Predicted translation: cai fora ! 
+
+Input: <start> i love studying languages . <end>
+Predicted translation: eu amo . 
+
+
+
